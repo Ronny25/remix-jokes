@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules
+/.cache
+/build
+/public/build
+
+# Keep environment variables out of version control
+.env
+
+prisma/dev.db
